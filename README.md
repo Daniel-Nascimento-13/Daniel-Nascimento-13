@@ -1,22 +1,21 @@
-
 # 👨🏻‍💻 Daniel Nascimento
 
 **`Iniciando os estudos`**
 
-Hey Guys, Me chamo Daniel! 👋🏼😁
-<br>
+Hey Guys, me chamo Daniel! 👋🏼😁  
 Tenho 25 anos e sou natural do RS.
 
 Sou estudante de Engenharia de Software e estou dando meus primeiros passos na área de desenvolvimento, com os cursos da Rocketseat.  
 
-Tenho inglês intermediário e atualmente trabalho em uma empresa de tecnologia como assistente técnico em telas interativas.
+Tenho inglês intermediário e atualmente trabalho em uma empresa de tecnologia como assistente técnico em telas interativas.  
 
-No dia a dia, lido com a parte de engenharia dos equipamentos, realizando trocas e substituições de componentes.
+No dia a dia, lido com a parte de engenharia dos equipamentos, realizando trocas e substituições de componentes.  
 
 Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, explorando novas ferramentas e formas de aprimorar minhas habilidades em programação e tecnologia.
 
 ---
 
+<!-- Linha 1: Meus Repositórios - Seguidores - Estrelas -->
 <a href="https://github.com/Daniel-Nascimento-13?tab=repositories">
   <img 
         alt="GitHub Repositórios" 
@@ -38,6 +37,17 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
         src="https://custom-icon-badges.demolab.com/github/stars/Daniel-Nascimento-13?color=yellow&style=for-the-badge&labelColor=ffd500&logo=star&label=estrelas"
   />
 </a>
+
+<br/>
+
+<!-- Linha 2: Instagram - Email - Contato -->
+<a href="https://instagram.com/daniel_nascimennto" target="_blank">
+  <img 
+      alt="Instagram" 
+      title="Me siga no Instagram" 
+      src="https://custom-icon-badges.demolab.com/badge/-@daniel_nascimennto-black?style=for-the-badge&logo=instagram&logoColor=white" 
+  />
+</a>
 <a href="mailto:danielnascimento779@hotmail.com">
   <img 
         alt="Email" 
@@ -52,13 +62,10 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
         src="https://custom-icon-badges.demolab.com/badge/-+55%20(51)%2099892--2465-black?style=for-the-badge&logo=phone&logoColor=white" 
   />
 </a>
-<a href="https://instagram.com/daniel_nascimennto" target="_blank">
-  <img 
-      alt="Instagram" 
-      title="Me siga no Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/-@daniel_nascimennto-black?style=for-the-badge&logo=instagram&logoColor=white" 
-  />
-</a>
+
+<br/>
+
+<!-- Linha 3: Localização -->
 <a href="#">
   <img 
         alt="Localização" 
@@ -117,12 +124,9 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Nascimento-13&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-nascimento-13&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-
-
 
 
 
