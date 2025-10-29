@@ -1,3 +1,4 @@
+
 # 👨🏻‍💻 Daniel Nascimento
 
 **`Iniciando os estudos`**
@@ -23,20 +24,19 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
         src="https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-gray?style=for-the-badge&logo=repo&logoColor=white" 
   />
 </a>
- <a href="https://github.com/Daniel-Nascimento-13?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Daniel-Nascimento-13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+<a href="https://github.com/Daniel-Nascimento-13?tab=followers">
+  <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Daniel-Nascimento-13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
   />
-    </a>
+</a>
 <a href="https://github.com/Daniel-Nascimento-13?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Daniel-Nascimento-13?color=yellow&style=for-the-badge&labelColor=ffd500&logo=star&label=estrelas"
+  <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/Daniel-Nascimento-13?color=yellow&style=for-the-badge&labelColor=ffd500&logo=star&label=estrelas"
   />
- 
 </a>
 <a href="mailto:danielnascimento779@hotmail.com">
   <img 
@@ -51,14 +51,13 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
         title="Me contate pelo WhatsApp" 
         src="https://custom-icon-badges.demolab.com/badge/-+55%20(51)%2099892--2465-black?style=for-the-badge&logo=phone&logoColor=white" 
   />
-<a href="https://instagram.com/seu_usuario" target="_blank">
+</a>
+<a href="https://instagram.com/daniel_nascimennto" target="_blank">
   <img 
       alt="Instagram" 
       title="Me siga no Instagram" 
       src="https://custom-icon-badges.demolab.com/badge/-@daniel_nascimennto-black?style=for-the-badge&logo=instagram&logoColor=white" 
   />
-</a>
-
 </a>
 <a href="#">
   <img 
@@ -66,7 +65,7 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
         title="Lajeado - RS" 
         src="https://custom-icon-badges.demolab.com/badge/-Lajeado--RS-gray?style=for-the-badge&logo=location&logoColor=white" 
   />       
-</a> 
+</a>
 
 ---
 
@@ -98,7 +97,6 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
 <br/>
 <br/>
 
@@ -115,14 +113,24 @@ Gosto de aprender na prática e estou sempre buscando evoluir tecnicamente, expl
     src="https://github-readme-stats.vercel.app/api?username=Daniel-Nascimento-13&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-nascimento-13&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Nascimento-13&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
